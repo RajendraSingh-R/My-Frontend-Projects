@@ -1,2 +1,4 @@
 # My-Frontend-Projects
-All my fronted projects by Rajendra singh
+All my fronted projects by
+<br>
+Rajendra singh
